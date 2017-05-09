@@ -22,3 +22,9 @@ På Hack-o-meter-Pien må man ikke endre noen oppløsning, antagelig fordi den s
 
 Begge Piene er satt til å ikke boote til skrivebordet, men rett inn i terminal, for så å kjøre scriptene automatisk.
 
+Skjermsparer er også deaktivert for at ikke skjermene skal gå mørke etter 10 minutter. Dette var en overraskende komplisert prosess og til slutt er vi litt usikre på nøyaktig hvilket av tiltakene vi gjorde som ordnet saken (eller om det var flere i kombinasjon), men her er forslagene vi fulgte: (det virker litt individuelt fra Pi til Pi hva som fungerer)
+
+https://www.reddit.com/r/raspberry_pi/comments/4qvtwv/question_how_do_i_stop_the_terminal_from_blanking/?
+https://www.bitpi.co/2015/02/14/prevent-raspberry-pi-from-sleeping/
+
+
